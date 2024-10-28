@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- artisan_section strings -->
+
+	<string name="app_name">Page 1 (Screens)</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="tracking_string">Tracking</string>
+	<string name="mister_whisker_string">Mister Whisker</string>
+	<string name="online_string">Online</string>
+	<string name="_0_2m_string">0.2m</string>
+	<string name="_1_2km_string">1.2km</string>
+	<string name="_0_2m_ek1_string">0.2m</string>
+	<string name="lauri_s_keys_string">Lauris keys</string>
+	<string name="offline___last_location_string">Offline - last location</string>
+	<string name="lauri_string">Lauri</string>
+	<string name="online_ek1_string">Online</string>
+</resources>

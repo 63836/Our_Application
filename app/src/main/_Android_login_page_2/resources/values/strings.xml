@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- login_page_2 strings -->
+
+	<string name="app_name">Page 1 (Screens)</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="create_an_account_string">Create an account</string>
+	<string name="email_string">Email</string>
+	<string name="confirm_password_string">Confirm Password</string>
+	<string name="password_string">Password</string>
+	<string name="remember_me_string">Remember me</string>
+	<string name="forgot_password__string">Forgot password?</string>
+	<string name="sign_up_string">SIGN UP</string>
+	<string name="_already_have_an_account___login_up_string">Already have an account ? Login Up</string>
+	<string name="name_string">Name</string>
+</resources>

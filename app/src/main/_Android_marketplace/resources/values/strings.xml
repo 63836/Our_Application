@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- marketplace strings -->
+
+	<string name="app_name">Page 1 (Screens)</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="home_ek1_string">Home</string>
+	<string name="provide_the_best_food_for_you_string">Provide the best food for you</string>
+	<string name="find_by_category_string">Find by Category</string>
+	<string name="see_all_string">See All</string>
+	<string name="burger_ek1_string">Burger</string>
+	<string name="taco_ek1_string">Taco</string>
+	<string name="drink_ek1_string">Drink</string>
+	<string name="pizza_ek1_string">Pizza</string>
+	<string name="ordinary_burgers_string">Ordinary Burgers</string>
+	<string name="_4_9_string">4.9</string>
+	<string name="_190m_string">190m</string>
+	<string name="sda__string">102 Points</string>
+	<string name="points_exchange_string">Points Exchange</string>
+</resources>

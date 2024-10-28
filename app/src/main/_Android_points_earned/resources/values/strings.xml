@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- points_earned strings -->
+
+	<string name="app_name">Page 1 (Screens)</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="welcome_back_leo__string">Welcome Back Leo!</string>
+	<string name="__226_90_string">226.90</string>
+	<string name="s_string">S</string>
+	<string name="t_string">T</string>
+	<string name="t_ek1_string">T</string>
+	<string name="m_string">M</string>
+	<string name="w_string">W</string>
+	<string name="f_string">F</string>
+	<string name="s_ek1_string">S</string>
+	<string name="month_string">Month</string>
+	<string name="total_points_earned_string">Total Points Earned</string>
+	<string name="_472_55_string">472.55</string>
+	<string name="trash_deposited_string">Trash Deposited</string>
+	<string name="points_balance_string">Points Balance</string>
+</resources>
